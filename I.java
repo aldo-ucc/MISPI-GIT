@@ -11,8 +11,4 @@ public class I extends B {
     public void bb() {
         System.out.println(42);
     }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
 }

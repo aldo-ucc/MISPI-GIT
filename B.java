@@ -27,8 +27,4 @@ public class B implements J, H {
     public double ad() {
         return 11.09;
     }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
