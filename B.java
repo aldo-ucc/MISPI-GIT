@@ -28,19 +28,27 @@ public class B extends null implements J, H {
         return 11.09;
     }
 
-    public String kk() {
-        return "Yes";
-    }
-
     public java.lang.Class qq() {
         return getClass();
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public void ab() {
+        return;
     }
 
-    public long dd() {
-        return 33;
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public double ee() {
+        return 500.100;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }
