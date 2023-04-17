@@ -31,4 +31,8 @@ public class B implements J, H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public String kk() {
+        return "No";
+    }
 }

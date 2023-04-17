@@ -15,4 +15,8 @@ public class I extends B {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
