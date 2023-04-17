@@ -1,4 +1,4 @@
-public class B implements J, H {
+public class B extends null implements J, H {
 
     private long a = 1234;
 
@@ -28,23 +28,19 @@ public class B implements J, H {
         return 11.09;
     }
 
+    public String kk() {
+        return "Yes";
+    }
+
     public java.lang.Class qq() {
         return getClass();
     }
 
-    public String kk() {
-        return "No";
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 
-    public double ee() {
-        return 500.100;
-    }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+    public long dd() {
+        return 33;
     }
 }

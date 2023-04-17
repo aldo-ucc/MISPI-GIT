@@ -20,15 +20,11 @@ public class I extends B {
         System.out.println("Hello world!");
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public java.lang.Class qq() {
+        return getClass();
     }
 
-    public long dd() {
-        return 33;
-    }
-
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    public void ab() {
+        System.out.println("\n");
     }
 }
