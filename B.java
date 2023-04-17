@@ -39,4 +39,8 @@ public class B implements J, H {
     public double ee() {
         return 500.100;
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }

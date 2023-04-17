@@ -23,4 +23,8 @@ public class I extends B {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public long dd() {
+        return 33;
+    }
 }
