@@ -35,4 +35,8 @@ public class B implements J, H {
     public String kk() {
         return "No";
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
