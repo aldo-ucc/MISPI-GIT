@@ -27,4 +27,8 @@ public class I extends B {
     public long dd() {
         return 33;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

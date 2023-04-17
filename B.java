@@ -43,4 +43,8 @@ public class B implements J, H {
     public void ab() {
         System.out.println("\n");
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
